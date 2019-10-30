@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/sujet2 t-closeness/sujet2 algorithme et differentes etapes/dependencies/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="F:/sujet2 t-closeness/sujet2 algorithme et differentes etapes/dependencies/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="F:/sujet2 t-closeness/sujet2 algorithme et differentes etapes/dependencies/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="F:/sujet2 t-closeness/sujet2 algorithme et differentes etapes/dependencies/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
